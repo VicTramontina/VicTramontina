@@ -1,1 +1,1 @@
-![Vuc GitHub stats]([https://github-readme-stats.vercel.app/api?username=FelipeB0rges&show_icons=true&theme=dracula&count_private=true](https://github-readme-stats.vercel.app/api?username=VicTramontina&show_icons=true&theme=dracula&count_private=false)
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=VicTramontina&show_icons=true&theme=dracula&count_private=false)
