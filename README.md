@@ -14,15 +14,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,androidstudio,github,git,postman,linux)](https://skillicons.dev)
 </div>
-
----
-
-<div align="center">
-  <h2 style="color: #bd93f9;">📊 GitHub Activity</h2>
-
-  <div>
-    <a href="https://github-readme-activity-graph.vercel.app/graph?username=VicTramontina&theme=dracula">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=VicTramontina&theme=dracula" width="100%" alt="GitHub Activity Graph">
-    </a>
-  </div>
-</div>
