@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hi! I'm Vic</h2>
-<h2 style="color: #BD93F9;">🚀 Tech Stack</h2>
+<h3 style="color: #BD93F9;">🚀 Tech Stack</h2>
 
 ### Frontend:
 
@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-  <h2 style="color: #bd93f9;">📊 GitHub Stats & Activity</h2>
+  <h2 style="color: #bd93f9;">📊 GitHub Activity</h2>
 
   <div>
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=VicTramontina&theme=dracula">
