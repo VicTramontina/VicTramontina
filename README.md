@@ -4,7 +4,6 @@
 
 <h3 style="color:#BD93F9;">🚀 Full Stack Developer</h3>
 
-<p>🔒 Most of what I build is private/commercial, so there isn’t much code to show.<br>
 Here’s a snapshot of the technologies I work with every day:</p>
 
 ---
